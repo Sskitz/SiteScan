@@ -4,7 +4,7 @@ find webiste ips
 
 # how to install
 
-git clone https://github.com/skitz5674/Sitescan
+git clone https://github.com/Sskitz/SiteScan
 
 cd sitescan
 
